@@ -62,5 +62,5 @@ http://yourdomain.com/wallpaper/
 
 壁纸来自：https://www.pixiv.net/member_illust.php?mode=medium&illust_id=72479782
 
-壁纸画师：[まふゆ������3日目西れ07a](https://www.pixiv.net/member.php?id=5229572)
+壁纸画师：[まふゆ👻3日目西れ07a](https://www.pixiv.net/member.php?id=5229572)
 
