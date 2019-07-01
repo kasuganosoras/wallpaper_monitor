@@ -1,0 +1,51 @@
+body {
+	color: rgba(255,255,255,0.85);
+	font-weight: 100;
+	font-size: 14px;
+	background-color: rgb(25,25,25);
+	background-size: cover;
+	background-repeat: no-repeat;
+	font-family: '微软雅黑','-apple-system','BlinkMacSystemFont','Segoe UI','Helvetica','Arial','sans-serif','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol' ! important;
+}
+hr {
+	border-color: rgba(255,255,255,0.2);
+	border-top-width: 3px;
+}
+.gauge-title {
+	font-size: 14px;
+	fill: #FFF;
+	font-family: '微软雅黑','-apple-system','BlinkMacSystemFont','Segoe UI','Helvetica','Arial','sans-serif','Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol' ! important;
+}
+.gauge-value {
+	font-size: 24px;
+	fill: #FFF;
+}
+.gauge-unity {
+	font-size: 14px;
+	fill: #FFF;
+}
+#cg1 {
+	display: none;
+	position: fixed;
+	right: 320px;
+	bottom: 32px;
+}
+#cg2 {
+	display: none;
+	position: fixed;
+	right: 70px;
+	bottom: 32px;
+}
+.sysinfo {
+	font-family: '微软雅黑';
+	position: fixed;
+	bottom: 256px;
+	right: 77px;
+}
+.sysinfo h2 {
+	width: 472px;
+	display: block;
+	font-size: 26px;
+	padding-bottom: 7px;
+	border-bottom: 2px solid #FFF;
+}
