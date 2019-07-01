@@ -33,9 +33,12 @@ git clone https://github.com/kasuganosoras/wallpaper_monitor
 mv wallpaper_monitor/ wallpaper/
 ```
 
-然后，进入该文件夹，并在命令行下运行 Daemon 程序 `index.php` ，推荐使用 `screen` 命令来守护 Daemon 进程，以防 SSH 断开后程序停止运行。
+然后，进入该文件夹，并在命令行下运行 Daemon 程序 `index.php`。
+
+推荐使用 `screen` 命令来守护 Daemon 进程，以防 SSH 断开后程序停止运行。
 
 ```shell
+screen -S wallpaper
 cd wallpaper/
 php index.php
 ```
