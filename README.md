@@ -50,7 +50,7 @@ http://yourdomain.com/wallpaper/
 
 这是命令行下的效果
 
-![img](https://i.natfrp.org/3a2c682d7c8ecee2ec8b940e411096f3.png)
+![img](https://i.loli.net/2019/07/01/5d1a24a4a1e8312855.png)
 
 前端效果图就不放了，你懂得……
 
@@ -62,5 +62,5 @@ http://yourdomain.com/wallpaper/
 
 壁纸来自：https://www.pixiv.net/member_illust.php?mode=medium&illust_id=72479782
 
-壁纸画师：[まふゆ������3日目西れ07a](https://www.pixiv.net/member.php?id=5229572)
+壁纸画师：[まふゆ������3日目西れ07a](https://www.pixiv.net/member.php?id=5229572)
 
