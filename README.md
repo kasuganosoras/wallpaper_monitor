@@ -2,7 +2,7 @@
 
 一款为 Wallpaper Engine 等壁纸软件设计的服务器监控小插件，使用 PHP 编写
 
-使用需要 Linux 服务器，并且安装了 Web 服务器 + PHP 5.6 以上，可以是 Nginx、Apache 等。（如果你是宝塔用户请取消禁用shell_exec）
+使用需要 Linux 服务器，并且安装了 Web 服务器 + PHP 5.6 以上，可以是 Nginx、Apache 等。
 
 在线预览：https://cdn.tcotp.cn:4443/wallpaper/
 
@@ -41,7 +41,6 @@ mv wallpaper_monitor/ wallpaper/
 screen -S wallpaper
 cd wallpaper/
 php index.php
-Ctrl+a 然后再按下d
 ```
 
 现在，你可以访问你的网站并查看效果了：

@@ -62,7 +62,7 @@ if(php_sapi_name() == "cli") {
 		@file_put_contents(__DIR__ . "/logs/uptime.log", $v_load);
 		
 		// 取得 CPU 温度
-		$result = shell_exec('sensors | grep "Core" | awk \'{print $3}\' > /logs/temp_sensors.log');
+		$result = shell_exec('sensors | grep "Core" | awk \'{print $3}\' > logs/temp_sensors.log');
 		$data   = @file_get_contents(__DIR__ . "/logs/temp_sensors.log");
 		$exp    = explode("\n", $data);
 		$all    = 0.00;
